@@ -1,0 +1,130 @@
+{
+    "Location_Details": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "167"
+                    },
+                    "Work_Address": {
+                        "S": "123 Detroit"
+                    },
+                    "Work_State": {
+                        "S": "MI"
+                    },
+                    "Home_Address": {
+                        "S": "2737 Southgate"
+                    },
+                    "Home_State": {
+                        "S": "MI"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "123"
+                    },
+                    "Work_Address": {
+                        "S": "2838 Canfield St"
+                    },
+                    "Work_State": {
+                        "S": "MI"
+                    },
+                    "Home_Address": {
+                        "S": "2737 Southgate"
+                    },
+                    "Home_State": {
+                        "S": "IL"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "2517"
+                    },
+                    "Work_Address": {
+                        "S": "2353 Kitty Pozer"
+                    },
+                    "Work_State": {
+                        "S": "VA"
+                    },
+                    "Home_Address": {
+                        "S": "2727 Pleasantdale Road"
+                    },
+                    "Home_State": {
+                        "S": "VA"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "456"
+                    },
+                    "Work_Address": {
+                        "S": "8384 Henn Street"
+                    },
+                    "Work_State": {
+                        "S": "MI"
+                    },
+                    "Home_Address": {
+                        "S": "8273 Novi gate"
+                    },
+                    "Home_State": {
+                        "S": "OH"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "3005"
+                    },
+                    "Work_Address": {
+                        "S": "230 Home Street"
+                    },
+                    "Work_State": {
+                        "S": "MD"
+                    },
+                    "Home_Address": {
+                        "S": "9239 Winter Wren"
+                    },
+                    "Home_State": {
+                        "S": "VA"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "343"
+                    },
+                    "Work_Address": {
+                        "S": "9373 Washington St"
+                    },
+                    "Work_State": {
+                        "S": "DC"
+                    },
+                    "Home_Address": {
+                        "S": "1029 Ivy lane"
+                    },
+                    "Home_State": {
+                        "S": "MI"
+                    }
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "Contact_Information": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "167"
+                    },
+                    "Work_phone": {
+                        "N": "283738"
+                    },
+                    "Work_email": {
+                        "S": "ykavadap@emich.edu"
+                    },
+                    "Home_phone": {
+                        "N": "219293"
+                    },
+                    "Personal_email": {
+                        "S": "yashu@gmail.com"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "123"
+                    },
+                    "Work_phone": {
+                        "N": "982837"
+                    },
+                    "Work_email": {
+                        "S": "nikh@emich.edu"
+                    },
+                    "Home_phone": {
+                        "N": "495938"
+                    },
+                    "Personal_email": {
+                        "S": "nikchow@gmail.com"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "2517"
+                    },
+                    "Work_phone": {
+                        "N": "283848"
+                    },
+                    "Work_email": {
+                        "S": "aby@bozz.com"
+                    },
+                    "Home_phone": {
+                        "N": "384849"
+                    },
+                    "Personal_email": {
+                        "S": "aby@gmail.com"
+                    }
+
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "456"
+                    },
+                    "Work_phone": {
+                        "N": "293847"
+                    },
+                    "Work_email": {
+                        "S": "rohit@pilani.edu"
+                    },
+                    "Home_phone": {
+                        "N": "495398"
+                    },
+                    "Personal_email": {
+                        "S": "rohit@gmail.com"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "3005"
+                    },
+                    "Work_phone": {
+                        "N": "475757"
+                    },
+                    "Work_email": {
+                        "S": "aruna@sarod.org"
+                    },
+                    "Home_phone": {
+                        "N": "858538"
+                    },
+                    "Personal_email": {
+                        "S": "aruna@gmail.com"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "343"
+                    },
+                    "Work_phone": {
+                        "N": "576938"
+                    },
+                    "Work_email": {
+                        "S": "rama@emich.edu"
+                    },
+                    "Home_phone": {
+                        "N": "584939"
+                    },
+                    "Personal_email": {
+                        "S": "rama@gmail.com"
+                    }
+                }
+            }
+        }
+        ]
+}

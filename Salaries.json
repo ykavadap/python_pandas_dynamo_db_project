@@ -1,0 +1,112 @@
+{
+    "Salaries": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "167"
+                    },
+                    "Dept_no": {
+                        "N": "2939"
+                    },
+                    "Current_sal": {
+                        "N": "90000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "83000"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "123"
+                    },
+                    "Dept_no": {
+                        "N": "3820"
+                    },
+                    "Current_sal": {
+                        "N": "79000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "72000"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "2517"
+                    },
+                    "Dept_no": {
+                        "N": "2939"
+                    },
+                    "Current_sal": {
+                        "N": "85000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "86785"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "456"
+                    },
+                    "Dept_no": {
+                        "N": "3448"
+                    },
+                    "Current_sal": {
+                        "N": "81000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "83885"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "3005"
+                    },
+                    "Dept_no": {
+                        "N": "3849"
+                    },
+                    "Current_sal": {
+                        "N": "81000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "83885"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "343"
+                    },
+                    "Dept_no": {
+                        "N": "3448"
+                    },
+                    "Current_sal": {
+                        "N": "65000"
+                    },
+                    "Previous_Year_sal": {
+                        "N": "72000"
+                    }
+                }
+            }
+        }
+    ]
+}

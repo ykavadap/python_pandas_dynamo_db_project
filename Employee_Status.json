@@ -1,0 +1,112 @@
+{
+    "Employee_Status": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "167"
+                    },
+                    "Dept_no": {
+                        "N": "2939"
+                    },
+                    "from_date": {
+                        "S": "02/03/2017"
+                    },
+                    "to_date": {
+                        "S": "Current"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "123"
+                    },
+                    "Dept_no": {
+                        "N": "3820"
+                    },
+                    "from_date": {
+                        "S": "05/12/2018"
+                    },
+                    "to_date": {
+                        "S": "09/19/2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "2517"
+                    },
+                    "Dept_no": {
+                        "N": "2939"
+                    },
+                    "from_date": {
+                        "S": "09/12/2018"
+                    },
+                    "to_date": {
+                        "S": "Current"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "456"
+                    },
+                    "Dept_no": {
+                        "N": "3448"
+                    },
+                    "from_date": {
+                        "S": "09/25/2015"
+                    },
+                    "to_date": {
+                        "S": "03/24/2017"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "3005"
+                    },
+                    "Dept_no": {
+                        "N": "3849"
+                    },
+                    "from_date": {
+                        "S": "10/12/2003"
+                    },
+                    "to_date": {
+                        "S": "01/23/2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "343"
+                    },
+                    "Dept_no": {
+                        "N": "3448"
+                    },
+                    "from_date": {
+                        "S": "12/23/2016"
+                    },
+                    "to_date": {
+                        "S": "02/23/2019"
+                    }
+                }
+            }
+        }
+        ]
+}

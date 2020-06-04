@@ -1,0 +1,40 @@
+{
+    "Department": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Dept_no": {"N":"2939"},
+                    "Dept_name": {"S":"Information Technology"},
+                    "Dept_head": {"S":"Michael Barry"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Dept_no": {"N":"3448"},
+                    "Dept_name": {"S":"Accounting"},
+                    "Dept_head": {"S":"Karim Fadil"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Dept_no": {"N":"3849"},
+                    "Dept_name": {"S":"Strategic Support"},
+                    "Dept_head": {"S":"Paul Gantos"}
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Dept_no": {"N":"3820"},
+                    "Dept_name": {"S":"Human Resources"},
+                    "Dept_head": {"S":"Dan High"}
+                }
+            }
+        }
+    ]
+}

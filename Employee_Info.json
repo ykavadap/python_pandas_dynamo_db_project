@@ -1,0 +1,148 @@
+{
+    "Employee_Info": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "167"
+                    },
+                    "First_name": {
+                        "S": "Yashaswi"
+                    },
+                    "Last_name": {
+                        "S": "Kavadapu"
+                    },
+                    "Gender": {
+                        "S": "Female"
+                    },
+                    "Birth_date": {
+                        "S": "05/17/1995"
+                    },
+                    "Hire_date": {
+                        "S": "04/12/2016"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "123"
+                    },
+                    "First_name": {
+                        "S": "Nikhil"
+                    },
+                    "Last_name": {
+                        "S": "Chowdary"
+                    },
+                    "Gender": {
+                        "S": "Male"
+                    },
+                    "Birth_date": {
+                        "S": "02/01/1995"
+                    },
+                    "Hire_date": {
+                        "S": "03/11/2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "2517"
+                    },
+                    "First_name": {
+                        "S": "Abhishek"
+                    },
+                    "Last_name": {
+                        "S": "Yengaldas"
+                    },
+                    "Gender": {
+                        "S": "Male"
+                    },
+                    "Birth_date": {
+                        "S": "09/25/1994"
+                    },
+                    "Hire_date": {
+                        "S": "08/27/2018"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "456"
+                    },
+                    "First_name": {
+                        "S": "Rohith"
+                    },
+                    "Last_name": {
+                        "S": "Kavadapu"
+                    },
+                    "Gender": {
+                        "S": "Male"
+                    },
+                    "Birth_date": {
+                        "S": "08/24/1998"
+                    },
+                    "Hire_date": {
+                        "S": "23/08/2014"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "3005"
+                    },
+                    "First_name": {
+                        "S": "Aruna"
+                    },
+                    "Last_name": {
+                        "S": "Devi"
+                    },
+                    "Gender": {
+                        "S": "Female"
+                    },
+                    "Birth_date": {
+                        "S": "05/30/1968"
+                    },
+                    "Hire_date": {
+                        "S": "01/01/1997"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "Emp_ID": {
+                        "N": "343"
+                    },
+                    "First_name": {
+                        "S": "Rama Devi"
+                    },
+                    "Last_name": {
+                        "S": "Ravipati"
+                    },
+                    "Gender": {
+                        "S": "Female"
+                    },
+                    "Birth_date": {
+                        "S": "07/23/1993"
+                    },
+                    "Hire_date": {
+                        "S": "27/04/2015"
+                    }
+                }
+            }
+        }
+    ]
+}
